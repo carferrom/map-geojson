@@ -1,0 +1,6445 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPB6",
+        "area_code": "6",
+        "driveway_code": "PB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 299,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36584847424561,
+              44.89293306910679
+            ],
+            [
+              10.365761082502448,
+              44.89299815965002
+            ],
+            [
+              10.367007471541955,
+              44.896527569517254
+            ],
+            [
+              10.367094863285116,
+              44.89646247897402
+            ],
+            [
+              10.36584847424561,
+              44.89293306910679
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB6",
+        "area_code": "6",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 303,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36592471995025,
+              44.892827198602546
+            ],
+            [
+              10.365877065345089,
+              44.89285682456978
+            ],
+            [
+              10.367095594681489,
+              44.896462054323884
+            ],
+            [
+              10.36718298642465,
+              44.89639696378065
+            ],
+            [
+              10.36592471995025,
+              44.892827198602546
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB6",
+        "area_code": "6",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 303,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36718332898088,
+              44.89639743168431
+            ],
+            [
+              10.367095909462753,
+              44.89646250703619
+            ],
+            [
+              10.367112252591133,
+              44.89650961429447
+            ],
+            [
+              10.36719967210926,
+              44.896444538942596
+            ],
+            [
+              10.36718332898088,
+              44.89639743168431
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB6",
+        "area_code": "6",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 303,
+        "part": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.366276057962683,
+              44.89275102004454
+            ],
+            [
+              10.366232332463879,
+              44.89278354524094
+            ],
+            [
+              10.366247511202607,
+              44.892827154846664
+            ],
+            [
+              10.36629123670141,
+              44.89279462965027
+            ],
+            [
+              10.366276057962683,
+              44.89275102004454
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPC6",
+        "area_code": "6",
+        "driveway_code": "PC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 309,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36609892607845,
+              44.89280425820442
+            ],
+            [
+              10.366008440478582,
+              44.89286719124699
+            ],
+            [
+              10.36726753963394,
+              44.89644435105356
+            ],
+            [
+              10.367358025233807,
+              44.89638141801099
+            ],
+            [
+              10.36609892607845,
+              44.89280425820442
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOC6",
+        "area_code": "6",
+        "driveway_code": "OC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 309,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36614565133215,
+              44.89277400769309
+            ],
+            [
+              10.366102046940572,
+              44.89280661440115
+            ],
+            [
+              10.367391679923363,
+              44.89649866545434
+            ],
+            [
+              10.3674806926081,
+              44.896434683044376
+            ],
+            [
+              10.36614565133215,
+              44.89277400769309
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPD6",
+        "area_code": "6",
+        "driveway_code": "PD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 298,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.366342268898855,
+              44.89282039862386
+            ],
+            [
+              10.366301679951864,
+              44.89285490388308
+            ],
+            [
+              10.367551598420006,
+              44.896346012011406
+            ],
+            [
+              10.36758980696919,
+              44.89631016738459
+            ],
+            [
+              10.366342268898855,
+              44.89282039862386
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOD6",
+        "area_code": "6",
+        "driveway_code": "OD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 309,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3664932277851,
+              44.89277422588452
+            ],
+            [
+              10.366403561126736,
+              44.892837744436804
+            ],
+            [
+              10.366395518267893,
+              44.89281690498164
+            ],
+            [
+              10.366439319994683,
+              44.892784431320166
+            ],
+            [
+              10.3664932277851,
+              44.89277422588452
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPE6",
+        "area_code": "6",
+        "driveway_code": "PE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 304,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.366597145297856,
+              44.892756259710076
+            ],
+            [
+              10.366551888469067,
+              44.892787716036125
+            ],
+            [
+              10.367803601165164,
+              44.89636559247137
+            ],
+            [
+              10.367847530410392,
+              44.89633320351529
+            ],
+            [
+              10.366597145297856,
+              44.892756259710076
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOE6",
+        "area_code": "6",
+        "driveway_code": "OE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 308,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.366758476692382,
+              44.89272024129622
+            ],
+            [
+              10.366666311541165,
+              44.89278193891329
+            ],
+            [
+              10.366659594326217,
+              44.892758569131594
+            ],
+            [
+              10.366704426233284,
+              44.892726808904406
+            ],
+            [
+              10.366758476692382,
+              44.89272024129622
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPF6",
+        "area_code": "6",
+        "driveway_code": "PF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 301,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.366921849292112,
+              44.89266725277838
+            ],
+            [
+              10.366832182716168,
+              44.892730771270436
+            ],
+            [
+              10.368068389950116,
+              44.89628709530269
+            ],
+            [
+              10.368114947064848,
+              44.89625660401151
+            ],
+            [
+              10.366921849292112,
+              44.89266725277838
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOF6",
+        "area_code": "6",
+        "driveway_code": "OF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 307,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367026385117356,
+              44.89265915942576
+            ],
+            [
+              10.36693913591536,
+              44.892724345579104
+            ],
+            [
+              10.36695396469945,
+              44.89268266328608
+            ],
+            [
+              10.366999308873275,
+              44.89265127019085
+            ],
+            [
+              10.367026385117356,
+              44.89265915942576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOF6",
+        "area_code": "6",
+        "driveway_code": "OF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 307,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36828628369373,
+              44.89626190961409
+            ],
+            [
+              10.368249922843779,
+              44.896298706035985
+            ],
+            [
+              10.368257263964145,
+              44.896322396494085
+            ],
+            [
+              10.368293624814095,
+              44.89628560007219
+            ],
+            [
+              10.36828628369373,
+              44.89626190961409
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPG6",
+        "area_code": "6",
+        "driveway_code": "PG",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 301,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367188666071655,
+              44.892643202868555
+            ],
+            [
+              10.367102654803501,
+              44.8927092095133
+            ],
+            [
+              10.368377474921758,
+              44.89620701941463
+            ],
+            [
+              10.368423253100284,
+              44.89617594196855
+            ],
+            [
+              10.367188666071655,
+              44.892643202868555
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOG6",
+        "area_code": "6",
+        "driveway_code": "OG",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 306,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367283965449616,
+              44.89257191948181
+            ],
+            [
+              10.367193095693638,
+              44.89263457384805
+            ],
+            [
+              10.367205055508327,
+              44.8926006747269
+            ],
+            [
+              10.367251405677067,
+              44.8925700278921
+            ],
+            [
+              10.367283965449616,
+              44.89257191948181
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPH6",
+        "area_code": "6",
+        "driveway_code": "PH",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 451,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36744912739789,
+              44.89256055839127
+            ],
+            [
+              10.367337974048542,
+              44.892646797002655
+            ],
+            [
+              10.368619159539346,
+              44.89615153656144
+            ],
+            [
+              10.368708828608897,
+              44.896088016101324
+            ],
+            [
+              10.36744912739789,
+              44.89256055839127
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOH6",
+        "area_code": "6",
+        "driveway_code": "OH",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 312,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3675436306591,
+              44.892498919039525
+            ],
+            [
+              10.367452288912947,
+              44.89256122795667
+            ],
+            [
+              10.367494914377788,
+              44.89248384926253
+            ],
+            [
+              10.367541008184297,
+              44.892453009052936
+            ],
+            [
+              10.3675436306591,
+              44.892498919039525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOI6",
+        "area_code": "6",
+        "driveway_code": "OI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 306,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367706261450138,
+              44.89248635857814
+            ],
+            [
+              10.367614625404869,
+              44.89254845017769
+            ],
+            [
+              10.36894494440969,
+              44.896137731195175
+            ],
+            [
+              10.36903658045496,
+              44.89607563959562
+            ],
+            [
+              10.367706261450138,
+              44.89248635857814
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPI6",
+        "area_code": "6",
+        "driveway_code": "PI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 47,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368518788096537,
+              44.89499119292779
+            ],
+            [
+              10.368472819618756,
+              44.89502212823915
+            ],
+            [
+              10.368883407252506,
+              44.89612435998331
+            ],
+            [
+              10.368929375730287,
+              44.89609342467195
+            ],
+            [
+              10.368518788096537,
+              44.89499119292779
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOA6",
+        "area_code": "6",
+        "driveway_code": "OA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 340,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.365672583321782,
+              44.89288003779967
+            ],
+            [
+              10.36555032886331,
+              44.89290388495517
+            ],
+            [
+              10.36684938922834,
+              44.896609154523276
+            ],
+            [
+              10.366971643686812,
+              44.89658530736778
+            ],
+            [
+              10.365672583321782,
+              44.89288003779967
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITCD6",
+        "area_code": "6",
+        "driveway_code": "CD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 1,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367306634845647,
+              44.895769396198034
+            ],
+            [
+              10.367276424596389,
+              44.89577620550356
+            ],
+            [
+              10.367291284110806,
+              44.895819870383306
+            ],
+            [
+              10.367321494360064,
+              44.89581306107778
+            ],
+            [
+              10.367306634845647,
+              44.895769396198034
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPA7",
+        "area_code": "7",
+        "driveway_code": "PA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 369,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367798596876014,
+              44.892051355647226
+            ],
+            [
+              10.36767504172543,
+              44.892071555056745
+            ],
+            [
+              10.368404628970866,
+              44.894025560429895
+            ],
+            [
+              10.36852818412145,
+              44.894005361020376
+            ],
+            [
+              10.367798596876014,
+              44.892051355647226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPA7",
+        "area_code": "7",
+        "driveway_code": "PA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 369,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368543201787437,
+              44.8940309332858
+            ],
+            [
+              10.368420863118251,
+              44.8940545694178
+            ],
+            [
+              10.369211647025185,
+              44.896114763261956
+            ],
+            [
+              10.369272022719835,
+              44.89610104476103
+            ],
+            [
+              10.368543201787437,
+              44.8940309332858
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOA7",
+        "area_code": "7",
+        "driveway_code": "OA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 370,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367924031719099,
+              44.89203103701567
+            ],
+            [
+              10.367800476568515,
+              44.89205123642519
+            ],
+            [
+              10.368530063813951,
+              44.89400524179834
+            ],
+            [
+              10.368653618964535,
+              44.89398504238882
+            ],
+            [
+              10.367924031719099,
+              44.89203103701567
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOA7",
+        "area_code": "7",
+        "driveway_code": "OA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 370,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368667821552313,
+              44.89400757976157
+            ],
+            [
+              10.368545482883126,
+              44.89403121589357
+            ],
+            [
+              10.369327774905203,
+              44.8960682170473
+            ],
+            [
+              10.36945011357439,
+              44.8960445809153
+            ],
+            [
+              10.368667821552313,
+              44.89400757976157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOA7",
+        "area_code": "7",
+        "driveway_code": "OA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 370,
+        "part": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369449312045237,
+              44.89604529799047
+            ],
+            [
+              10.369326910752612,
+              44.896068781315456
+            ],
+            [
+              10.369336518738049,
+              44.896090183003274
+            ],
+            [
+              10.369458920030674,
+              44.896066699678286
+            ],
+            [
+              10.369449312045237,
+              44.89604529799047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPB7",
+        "area_code": "7",
+        "driveway_code": "PB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 360,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368131472387347,
+              44.892044621749676
+            ],
+            [
+              10.368011176767897,
+              44.892073028107795
+            ],
+            [
+              10.36874092229855,
+              44.89402700579545
+            ],
+            [
+              10.368861217917999,
+              44.89399859943733
+            ],
+            [
+              10.368131472387347,
+              44.892044621749676
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPB7",
+        "area_code": "7",
+        "driveway_code": "PB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 360,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368880127644777,
+              44.89404083542536
+            ],
+            [
+              10.36875710682242,
+              44.894062622079964
+            ],
+            [
+              10.369493617272747,
+              44.89601533036153
+            ],
+            [
+              10.369616638095104,
+              44.89599354370692
+            ],
+            [
+              10.368880127644777,
+              44.89404083542536
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB7",
+        "area_code": "7",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 360,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368253675118922,
+              44.89201720801006
+            ],
+            [
+              10.368133379499472,
+              44.89204561436818
+            ],
+            [
+              10.368863125030124,
+              44.893999592055835
+            ],
+            [
+              10.368983420649574,
+              44.893971185697715
+            ],
+            [
+              10.368253675118922,
+              44.89201720801006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB7",
+        "area_code": "7",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 360,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369002330376352,
+              44.89401342168574
+            ],
+            [
+              10.368879309553995,
+              44.89403520834035
+            ],
+            [
+              10.369615820004322,
+              44.89598791662191
+            ],
+            [
+              10.36973884082668,
+              44.895966129967306
+            ],
+            [
+              10.369002330376352,
+              44.89401342168574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPC7",
+        "area_code": "7",
+        "driveway_code": "PC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 180,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368372878784413,
+              44.89199347605319
+            ],
+            [
+              10.368312518945906,
+              44.89200722026707
+            ],
+            [
+              10.369045921599671,
+              44.89396051053928
+            ],
+            [
+              10.369106281438178,
+              44.8939467663254
+            ],
+            [
+              10.368372878784413,
+              44.89199347605319
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPC7",
+        "area_code": "7",
+        "driveway_code": "PC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 180,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36912618746635,
+              44.89399125195283
+            ],
+            [
+              10.36906539634043,
+              44.89400401159742
+            ],
+            [
+              10.369791171470359,
+              44.89595873589469
+            ],
+            [
+              10.369851962596279,
+              44.895945976250104
+            ],
+            [
+              10.36912618746635,
+              44.89399125195283
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOC7",
+        "area_code": "7",
+        "driveway_code": "OC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 360,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368497018314315,
+              44.89196346771834
+            ],
+            [
+              10.368376722694865,
+              44.89199187407646
+            ],
+            [
+              10.369106468225517,
+              44.893945851764116
+            ],
+            [
+              10.369226763844967,
+              44.893917445406
+            ],
+            [
+              10.368497018314315,
+              44.89196346771834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOC7",
+        "area_code": "7",
+        "driveway_code": "OC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 360,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36925080139027,
+              44.893969771980096
+            ],
+            [
+              10.369127780567913,
+              44.8939915586347
+            ],
+            [
+              10.36986429101824,
+              44.89594426691627
+            ],
+            [
+              10.369987311840598,
+              44.89592248026166
+            ],
+            [
+              10.36925080139027,
+              44.893969771980096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPD7",
+        "area_code": "7",
+        "driveway_code": "PD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 178,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368616106181747,
+              44.89193962945973
+            ],
+            [
+              10.36855574634324,
+              44.89195337367361
+            ],
+            [
+              10.369289148997005,
+              44.89390666394582
+            ],
+            [
+              10.369349508835512,
+              44.89389291973194
+            ],
+            [
+              10.368616106181747,
+              44.89193962945973
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPD7",
+        "area_code": "7",
+        "driveway_code": "PD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 178,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369369414863684,
+              44.893937405359374
+            ],
+            [
+              10.369308623737764,
+              44.89395016500396
+            ],
+            [
+              10.370034398867693,
+              44.89590488930123
+            ],
+            [
+              10.370095189993613,
+              44.895892129656644
+            ],
+            [
+              10.369369414863684,
+              44.893937405359374
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOD7",
+        "area_code": "7",
+        "driveway_code": "OD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 291,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368739302415577,
+              44.8919140688721
+            ],
+            [
+              10.368617126098512,
+              44.89193811097269
+            ],
+            [
+              10.369344326122256,
+              44.89389256459473
+            ],
+            [
+              10.369466502439321,
+              44.89386852249414
+            ],
+            [
+              10.368739302415577,
+              44.8919140688721
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOD7",
+        "area_code": "7",
+        "driveway_code": "OD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 291,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369430615489318,
+              44.893924542155304
+            ],
+            [
+              10.369370228621248,
+              44.8939382311562
+            ],
+            [
+              10.370083619091604,
+              44.895871249259045
+            ],
+            [
+              10.370206642572338,
+              44.895849462086915
+            ],
+            [
+              10.369430615489318,
+              44.893924542155304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368836104908524,
+              44.89191241986154
+            ],
+            [
+              10.368787673670642,
+              44.891923093916546
+            ],
+            [
+              10.368795475062809,
+              44.89194486113515
+            ],
+            [
+              10.368843906300691,
+              44.891934187080146
+            ],
+            [
+              10.368836104908524,
+              44.89191241986154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36886731047719,
+              44.891999488735976
+            ],
+            [
+              10.368818879239308,
+              44.89201016279098
+            ],
+            [
+              10.368826680631475,
+              44.89203193000959
+            ],
+            [
+              10.368875111869357,
+              44.89202125595458
+            ],
+            [
+              10.36886731047719,
+              44.891999488735976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368906317438023,
+              44.89210832482902
+            ],
+            [
+              10.368857886200141,
+              44.89211899888402
+            ],
+            [
+              10.368865687592308,
+              44.89214076610263
+            ],
+            [
+              10.36891411883019,
+              44.89213009204762
+            ],
+            [
+              10.368906317438023,
+              44.89210832482902
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368945324398856,
+              44.89221716092206
+            ],
+            [
+              10.368896893160974,
+              44.892227834977064
+            ],
+            [
+              10.368904694553141,
+              44.89224960219567
+            ],
+            [
+              10.368953125791023,
+              44.892238928140664
+            ],
+            [
+              10.368945324398856,
+              44.89221716092206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36898433135969,
+              44.89232599701511
+            ],
+            [
+              10.368935900121807,
+              44.89233667107011
+            ],
+            [
+              10.368943701513974,
+              44.89235843828872
+            ],
+            [
+              10.368992132751856,
+              44.89234776423371
+            ],
+            [
+              10.36898433135969,
+              44.89232599701511
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369023338320522,
+              44.89243483310815
+            ],
+            [
+              10.36897490708264,
+              44.89244550716315
+            ],
+            [
+              10.368982708474807,
+              44.89246727438176
+            ],
+            [
+              10.369031139712689,
+              44.89245660032675
+            ],
+            [
+              10.369023338320522,
+              44.89243483310815
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369062345281355,
+              44.89254366920119
+            ],
+            [
+              10.369013914043473,
+              44.892554343256194
+            ],
+            [
+              10.36902171543564,
+              44.8925761104748
+            ],
+            [
+              10.369070146673522,
+              44.892565436419794
+            ],
+            [
+              10.369062345281355,
+              44.89254366920119
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369101352242188,
+              44.89265250529423
+            ],
+            [
+              10.369052921004306,
+              44.892663179349235
+            ],
+            [
+              10.369060722396473,
+              44.89268494656784
+            ],
+            [
+              10.369109153634355,
+              44.892674272512835
+            ],
+            [
+              10.369101352242188,
+              44.89265250529423
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369140359203021,
+              44.89276134138728
+            ],
+            [
+              10.369091927965139,
+              44.89277201544228
+            ],
+            [
+              10.369099729357306,
+              44.89279378266089
+            ],
+            [
+              10.369148160595188,
+              44.89278310860588
+            ],
+            [
+              10.369140359203021,
+              44.89276134138728
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369179366163854,
+              44.89287017748032
+            ],
+            [
+              10.369130934925971,
+              44.892880851535324
+            ],
+            [
+              10.369138736318138,
+              44.89290261875393
+            ],
+            [
+              10.36918716755602,
+              44.892891944698924
+            ],
+            [
+              10.369179366163854,
+              44.89287017748032
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369218373124687,
+              44.89297901357336
+            ],
+            [
+              10.369169941886804,
+              44.892989687628365
+            ],
+            [
+              10.369177743278971,
+              44.89301145484697
+            ],
+            [
+              10.369226174516854,
+              44.893000780791965
+            ],
+            [
+              10.369218373124687,
+              44.89297901357336
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 11
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36925738008552,
+              44.89308784966641
+            ],
+            [
+              10.369208948847637,
+              44.89309852372141
+            ],
+            [
+              10.369216750239804,
+              44.89312029094002
+            ],
+            [
+              10.369265181477687,
+              44.89310961688501
+            ],
+            [
+              10.36925738008552,
+              44.89308784966641
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 12
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369296387046353,
+              44.89319668575945
+            ],
+            [
+              10.36924795580847,
+              44.893207359814454
+            ],
+            [
+              10.369255757200637,
+              44.89322912703306
+            ],
+            [
+              10.36930418843852,
+              44.893218452978054
+            ],
+            [
+              10.369296387046353,
+              44.89319668575945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 13
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369335394007186,
+              44.89330552185249
+            ],
+            [
+              10.369286962769303,
+              44.893316195907495
+            ],
+            [
+              10.36929476416147,
+              44.8933379631261
+            ],
+            [
+              10.369343195399352,
+              44.893327289071095
+            ],
+            [
+              10.369335394007186,
+              44.89330552185249
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 14
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369374400968018,
+              44.89341435794553
+            ],
+            [
+              10.369325969730136,
+              44.893425032000536
+            ],
+            [
+              10.369333771122303,
+              44.89344679921914
+            ],
+            [
+              10.369382202360185,
+              44.893436125164136
+            ],
+            [
+              10.369374400968018,
+              44.89341435794553
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369413407928851,
+              44.89352319403858
+            ],
+            [
+              10.369364976690969,
+              44.893533868093584
+            ],
+            [
+              10.369372778083136,
+              44.89355563531219
+            ],
+            [
+              10.369421209321018,
+              44.893544961257184
+            ],
+            [
+              10.369413407928851,
+              44.89352319403858
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 16
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369452414889684,
+              44.89363203013162
+            ],
+            [
+              10.369403983651802,
+              44.893642704186625
+            ],
+            [
+              10.369411785043969,
+              44.89366447140523
+            ],
+            [
+              10.369460216281851,
+              44.893653797350225
+            ],
+            [
+              10.369452414889684,
+              44.89363203013162
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 17
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369491421850515,
+              44.89374086622466
+            ],
+            [
+              10.369442990612633,
+              44.893751540279666
+            ],
+            [
+              10.3694507920048,
+              44.89377330749827
+            ],
+            [
+              10.369499223242682,
+              44.89376263344327
+            ],
+            [
+              10.369491421850515,
+              44.89374086622466
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 18
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369530428811348,
+              44.8938497023177
+            ],
+            [
+              10.369481997573466,
+              44.89386037637271
+            ],
+            [
+              10.369489798965633,
+              44.89388214359131
+            ],
+            [
+              10.369538230203515,
+              44.89387146953631
+            ],
+            [
+              10.369530428811348,
+              44.8938497023177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 19
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369560056249192,
+              44.89399918102047
+            ],
+            [
+              10.369511936369788,
+              44.89401054358228
+            ],
+            [
+              10.36952073405941,
+              44.89403211937558
+            ],
+            [
+              10.369568853938814,
+              44.89402075681377
+            ],
+            [
+              10.369560056249192,
+              44.89399918102047
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 20
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3696040446973,
+              44.89410705998694
+            ],
+            [
+              10.369555924817897,
+              44.89411842254876
+            ],
+            [
+              10.36956472250752,
+              44.894139998342055
+            ],
+            [
+              10.369612842386923,
+              44.89412863578024
+            ],
+            [
+              10.3696040446973,
+              44.89410705998694
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 21
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36964803314541,
+              44.894214938953425
+            ],
+            [
+              10.369599913266006,
+              44.89422630151524
+            ],
+            [
+              10.369608710955628,
+              44.89424787730854
+            ],
+            [
+              10.369656830835032,
+              44.89423651474672
+            ],
+            [
+              10.36964803314541,
+              44.894214938953425
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 22
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369692021593519,
+              44.8943228179199
+            ],
+            [
+              10.369643901714115,
+              44.894334180481714
+            ],
+            [
+              10.369652699403737,
+              44.89435575627501
+            ],
+            [
+              10.36970081928314,
+              44.8943443937132
+            ],
+            [
+              10.369692021593519,
+              44.8943228179199
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 23
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369736010041626,
+              44.89443069688638
+            ],
+            [
+              10.369687890162222,
+              44.894442059448195
+            ],
+            [
+              10.369696687851844,
+              44.89446363524149
+            ],
+            [
+              10.369744807731248,
+              44.89445227267968
+            ],
+            [
+              10.369736010041626,
+              44.89443069688638
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 24
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369779998489735,
+              44.894538575852856
+            ],
+            [
+              10.369731878610331,
+              44.89454993841467
+            ],
+            [
+              10.369740676299953,
+              44.89457151420797
+            ],
+            [
+              10.369788796179357,
+              44.894560151646154
+            ],
+            [
+              10.369779998489735,
+              44.894538575852856
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 25
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369823986937844,
+              44.89464645481934
+            ],
+            [
+              10.36977586705844,
+              44.89465781738115
+            ],
+            [
+              10.369784664748062,
+              44.89467939317445
+            ],
+            [
+              10.369832784627466,
+              44.894668030612635
+            ],
+            [
+              10.369823986937844,
+              44.89464645481934
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 26
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369867975385953,
+              44.89475433378581
+            ],
+            [
+              10.369819855506549,
+              44.894765696347626
+            ],
+            [
+              10.369828653196171,
+              44.894787272140924
+            ],
+            [
+              10.369876773075575,
+              44.89477590957911
+            ],
+            [
+              10.369867975385953,
+              44.89475433378581
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 27
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369911963834062,
+              44.894862212752294
+            ],
+            [
+              10.369863843954658,
+              44.89487357531411
+            ],
+            [
+              10.36987264164428,
+              44.894895151107406
+            ],
+            [
+              10.369920761523684,
+              44.89488378854559
+            ],
+            [
+              10.369911963834062,
+              44.894862212752294
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 28
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36995595228217,
+              44.89497009171877
+            ],
+            [
+              10.369907832402767,
+              44.89498145428058
+            ],
+            [
+              10.369916630092389,
+              44.89500303007388
+            ],
+            [
+              10.369964749971793,
+              44.894991667512066
+            ],
+            [
+              10.36995595228217,
+              44.89497009171877
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 29
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36999994073028,
+              44.89507797068525
+            ],
+            [
+              10.369951820850876,
+              44.895089333247064
+            ],
+            [
+              10.369960618540498,
+              44.89511090904036
+            ],
+            [
+              10.370008738419902,
+              44.89509954647855
+            ],
+            [
+              10.36999994073028,
+              44.89507797068525
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 30
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370043929178388,
+              44.895185849651725
+            ],
+            [
+              10.369995809298985,
+              44.89519721221354
+            ],
+            [
+              10.370004606988607,
+              44.89521878800684
+            ],
+            [
+              10.37005272686801,
+              44.89520742544502
+            ],
+            [
+              10.370043929178388,
+              44.895185849651725
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 31
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370087917626496,
+              44.8952937286182
+            ],
+            [
+              10.370039797747092,
+              44.89530509118001
+            ],
+            [
+              10.370048595436714,
+              44.89532666697331
+            ],
+            [
+              10.370096715316118,
+              44.8953153044115
+            ],
+            [
+              10.370087917626496,
+              44.8952937286182
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 32
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370131906074604,
+              44.89540160758468
+            ],
+            [
+              10.3700837861952,
+              44.895412970146495
+            ],
+            [
+              10.370092583884823,
+              44.89543454593979
+            ],
+            [
+              10.370140703764227,
+              44.89542318337798
+            ],
+            [
+              10.370131906074604,
+              44.89540160758468
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 33
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370173349450749,
+              44.8955099372803
+            ],
+            [
+              10.370125229571345,
+              44.895521299842116
+            ],
+            [
+              10.370134027260967,
+              44.895542875635414
+            ],
+            [
+              10.37018214714037,
+              44.8955315130736
+            ],
+            [
+              10.370173349450749,
+              44.8955099372803
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 34
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370219882970822,
+              44.89561736551764
+            ],
+            [
+              10.370171763091419,
+              44.89562872807945
+            ],
+            [
+              10.37018056078104,
+              44.89565030387275
+            ],
+            [
+              10.370228680660444,
+              44.895638941310935
+            ],
+            [
+              10.370219882970822,
+              44.89561736551764
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370263871418931,
+              44.89572524448411
+            ],
+            [
+              10.370215751539527,
+              44.895736607045926
+            ],
+            [
+              10.37022454922915,
+              44.895758182839224
+            ],
+            [
+              10.370272669108553,
+              44.89574682027741
+            ],
+            [
+              10.370263871418931,
+              44.89572524448411
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITDD7",
+        "area_code": "7",
+        "driveway_code": "DD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 36
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.37030785986704,
+              44.89583312345059
+            ],
+            [
+              10.370259739987636,
+              44.89584448601241
+            ],
+            [
+              10.370268537677259,
+              44.895866061805705
+            ],
+            [
+              10.370316657556662,
+              44.89585469924389
+            ],
+            [
+              10.37030785986704,
+              44.89583312345059
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITCD7",
+        "area_code": "7",
+        "driveway_code": "CD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36854183824812,
+              44.891960508245404
+            ],
+            [
+              10.368517312778863,
+              44.89196508040526
+            ],
+            [
+              10.369490167194083,
+              44.894533223700066
+            ],
+            [
+              10.36951469266334,
+              44.89452865154021
+            ],
+            [
+              10.36854183824812,
+              44.891960508245404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITBC7",
+        "area_code": "7",
+        "driveway_code": "BC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36829200719157,
+              44.89201997587554
+            ],
+            [
+              10.368267481722313,
+              44.892024548035394
+            ],
+            [
+              10.369240336137533,
+              44.8945926913302
+            ],
+            [
+              10.36926486160679,
+              44.89458811917035
+            ],
+            [
+              10.36829200719157,
+              44.89201997587554
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAB7",
+        "area_code": "7",
+        "driveway_code": "AB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 74,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367988212627495,
+              44.89208227527601
+            ],
+            [
+              10.367963687158237,
+              44.89208684743586
+            ],
+            [
+              10.368936541573458,
+              44.89465499073067
+            ],
+            [
+              10.368961067042715,
+              44.89465041857082
+            ],
+            [
+              10.367988212627495,
+              44.89208227527601
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367698873939588,
+              44.89210073013206
+            ],
+            [
+              10.367650442701706,
+              44.89211140418706
+            ],
+            [
+              10.367658244093873,
+              44.89213317140567
+            ],
+            [
+              10.367706675331755,
+              44.89212249735066
+            ],
+            [
+              10.367698873939588,
+              44.89210073013206
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367730079508254,
+              44.89218779900649
+            ],
+            [
+              10.367681648270372,
+              44.8921984730615
+            ],
+            [
+              10.367689449662539,
+              44.8922202402801
+            ],
+            [
+              10.367737880900421,
+              44.8922095662251
+            ],
+            [
+              10.367730079508254,
+              44.89218779900649
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 2
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367769086469087,
+              44.892296635099534
+            ],
+            [
+              10.367720655231205,
+              44.89230730915454
+            ],
+            [
+              10.367728456623372,
+              44.892329076373144
+            ],
+            [
+              10.367776887861254,
+              44.89231840231814
+            ],
+            [
+              10.367769086469087,
+              44.892296635099534
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 3
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36780809342992,
+              44.892405471192575
+            ],
+            [
+              10.367759662192038,
+              44.89241614524758
+            ],
+            [
+              10.367767463584205,
+              44.892437912466185
+            ],
+            [
+              10.367815894822087,
+              44.89242723841118
+            ],
+            [
+              10.36780809342992,
+              44.892405471192575
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 4
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367847100390753,
+              44.89251430728562
+            ],
+            [
+              10.36779866915287,
+              44.89252498134063
+            ],
+            [
+              10.367806470545037,
+              44.89254674855923
+            ],
+            [
+              10.36785490178292,
+              44.89253607450423
+            ],
+            [
+              10.367847100390753,
+              44.89251430728562
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 5
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367886107351586,
+              44.892623143378664
+            ],
+            [
+              10.367837676113703,
+              44.89263381743367
+            ],
+            [
+              10.36784547750587,
+              44.892655584652275
+            ],
+            [
+              10.367893908743753,
+              44.89264491059727
+            ],
+            [
+              10.367886107351586,
+              44.892623143378664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 6
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367925114312419,
+              44.892731979471705
+            ],
+            [
+              10.367876683074536,
+              44.89274265352671
+            ],
+            [
+              10.367884484466703,
+              44.892764420745316
+            ],
+            [
+              10.367932915704586,
+              44.89275374669031
+            ],
+            [
+              10.367925114312419,
+              44.892731979471705
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 7
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367964121273252,
+              44.892840815564746
+            ],
+            [
+              10.36791569003537,
+              44.89285148961975
+            ],
+            [
+              10.367923491427536,
+              44.89287325683836
+            ],
+            [
+              10.367971922665419,
+              44.89286258278335
+            ],
+            [
+              10.367964121273252,
+              44.892840815564746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 8
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368003128234085,
+              44.892949651657794
+            ],
+            [
+              10.367954696996202,
+              44.8929603257128
+            ],
+            [
+              10.36796249838837,
+              44.892982092931405
+            ],
+            [
+              10.368010929626251,
+              44.8929714188764
+            ],
+            [
+              10.368003128234085,
+              44.892949651657794
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 9
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368042135194917,
+              44.893058487750835
+            ],
+            [
+              10.367993703957035,
+              44.89306916180584
+            ],
+            [
+              10.368001505349202,
+              44.893090929024446
+            ],
+            [
+              10.368049936587084,
+              44.89308025496944
+            ],
+            [
+              10.368042135194917,
+              44.893058487750835
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 10
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36808114215575,
+              44.893167323843876
+            ],
+            [
+              10.368032710917868,
+              44.89317799789888
+            ],
+            [
+              10.368040512310035,
+              44.89319976511749
+            ],
+            [
+              10.368088943547917,
+              44.89318909106248
+            ],
+            [
+              10.36808114215575,
+              44.893167323843876
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 11
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368120149116583,
+              44.893276159936924
+            ],
+            [
+              10.368071717878701,
+              44.89328683399193
+            ],
+            [
+              10.368079519270868,
+              44.893308601210535
+            ],
+            [
+              10.36812795050875,
+              44.89329792715553
+            ],
+            [
+              10.368120149116583,
+              44.893276159936924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 12
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368159156077416,
+              44.893384996029965
+            ],
+            [
+              10.368110724839534,
+              44.89339567008497
+            ],
+            [
+              10.3681185262317,
+              44.893417437303576
+            ],
+            [
+              10.368166957469583,
+              44.89340676324857
+            ],
+            [
+              10.368159156077416,
+              44.893384996029965
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 13
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36819816303825,
+              44.893493832123006
+            ],
+            [
+              10.368149731800367,
+              44.89350450617801
+            ],
+            [
+              10.368157533192534,
+              44.89352627339662
+            ],
+            [
+              10.368205964430416,
+              44.89351559934161
+            ],
+            [
+              10.36819816303825,
+              44.893493832123006
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 14
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368237169999082,
+              44.89360266821605
+            ],
+            [
+              10.3681887387612,
+              44.89361334227105
+            ],
+            [
+              10.368196540153367,
+              44.89363510948966
+            ],
+            [
+              10.368244971391249,
+              44.89362443543465
+            ],
+            [
+              10.368237169999082,
+              44.89360266821605
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 15
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368276176959915,
+              44.893711504309096
+            ],
+            [
+              10.368227745722033,
+              44.8937221783641
+            ],
+            [
+              10.3682355471142,
+              44.893743945582706
+            ],
+            [
+              10.368283978352082,
+              44.8937332715277
+            ],
+            [
+              10.368276176959915,
+              44.893711504309096
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 16
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368315183920748,
+              44.89382034040214
+            ],
+            [
+              10.368266752682866,
+              44.89383101445714
+            ],
+            [
+              10.368274554075033,
+              44.89385278167575
+            ],
+            [
+              10.368322985312915,
+              44.89384210762074
+            ],
+            [
+              10.368315183920748,
+              44.89382034040214
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 17
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368354190881579,
+              44.89392917649518
+            ],
+            [
+              10.368305759643697,
+              44.89393985055018
+            ],
+            [
+              10.368313561035864,
+              44.89396161776879
+            ],
+            [
+              10.368361992273746,
+              44.89395094371378
+            ],
+            [
+              10.368354190881579,
+              44.89392917649518
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 18
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368422825280255,
+              44.894187491290985
+            ],
+            [
+              10.368374705400852,
+              44.8941988538528
+            ],
+            [
+              10.368383503090474,
+              44.8942204296461
+            ],
+            [
+              10.368431622969878,
+              44.89420906708428
+            ],
+            [
+              10.368422825280255,
+              44.894187491290985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 19
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368466813728364,
+              44.89429537025746
+            ],
+            [
+              10.36841869384896,
+              44.894306732819274
+            ],
+            [
+              10.368427491538583,
+              44.89432830861257
+            ],
+            [
+              10.368475611417987,
+              44.89431694605076
+            ],
+            [
+              10.368466813728364,
+              44.89429537025746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 20
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368510802176473,
+              44.89440324922394
+            ],
+            [
+              10.36846268229707,
+              44.894414611785756
+            ],
+            [
+              10.368471479986692,
+              44.89443618757905
+            ],
+            [
+              10.368519599866096,
+              44.89442482501724
+            ],
+            [
+              10.368510802176473,
+              44.89440324922394
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 21
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368554790624582,
+              44.894511128190416
+            ],
+            [
+              10.368506670745179,
+              44.89452249075223
+            ],
+            [
+              10.3685154684348,
+              44.89454406654553
+            ],
+            [
+              10.368563588314204,
+              44.894532703983714
+            ],
+            [
+              10.368554790624582,
+              44.894511128190416
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 22
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36859877907269,
+              44.8946190071569
+            ],
+            [
+              10.368550659193286,
+              44.89463036971871
+            ],
+            [
+              10.368559456882908,
+              44.89465194551201
+            ],
+            [
+              10.368607576762312,
+              44.894640582950196
+            ],
+            [
+              10.36859877907269,
+              44.8946190071569
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 23
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368642767520798,
+              44.89472688612337
+            ],
+            [
+              10.368594647641395,
+              44.89473824868519
+            ],
+            [
+              10.368603445331017,
+              44.894759824478484
+            ],
+            [
+              10.36865156521042,
+              44.89474846191667
+            ],
+            [
+              10.368642767520798,
+              44.89472688612337
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 24
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368686755968907,
+              44.894834765089854
+            ],
+            [
+              10.368638636089504,
+              44.89484612765167
+            ],
+            [
+              10.368647433779126,
+              44.894867703444966
+            ],
+            [
+              10.36869555365853,
+              44.89485634088315
+            ],
+            [
+              10.368686755968907,
+              44.894834765089854
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 25
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368730744417016,
+              44.89494264405633
+            ],
+            [
+              10.368682624537612,
+              44.89495400661814
+            ],
+            [
+              10.368691422227235,
+              44.89497558241144
+            ],
+            [
+              10.368739542106638,
+              44.894964219849626
+            ],
+            [
+              10.368730744417016,
+              44.89494264405633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 26
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368774732865125,
+              44.89505052302281
+            ],
+            [
+              10.368726612985721,
+              44.895061885584624
+            ],
+            [
+              10.368735410675344,
+              44.89508346137792
+            ],
+            [
+              10.368783530554747,
+              44.89507209881611
+            ],
+            [
+              10.368774732865125,
+              44.89505052302281
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 27
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368818721313234,
+              44.895158401989285
+            ],
+            [
+              10.36877060143383,
+              44.8951697645511
+            ],
+            [
+              10.368779399123452,
+              44.8951913403444
+            ],
+            [
+              10.368827519002856,
+              44.89517997778258
+            ],
+            [
+              10.368818721313234,
+              44.895158401989285
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 28
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368862709761343,
+              44.89526628095577
+            ],
+            [
+              10.36881458988194,
+              44.89527764351758
+            ],
+            [
+              10.368823387571561,
+              44.89529921931088
+            ],
+            [
+              10.368871507450965,
+              44.895287856749064
+            ],
+            [
+              10.368862709761343,
+              44.89526628095577
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 29
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368906698209452,
+              44.89537415992224
+            ],
+            [
+              10.368858578330048,
+              44.895385522484055
+            ],
+            [
+              10.36886737601967,
+              44.89540709827735
+            ],
+            [
+              10.368915495899074,
+              44.89539573571554
+            ],
+            [
+              10.368906698209452,
+              44.89537415992224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 30
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36895068665756,
+              44.895482038888716
+            ],
+            [
+              10.368902566778155,
+              44.89549340145053
+            ],
+            [
+              10.368911364467778,
+              44.89551497724383
+            ],
+            [
+              10.368959484347181,
+              44.89550361468201
+            ],
+            [
+              10.36895068665756,
+              44.895482038888716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 31
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368994675105668,
+              44.8955899178552
+            ],
+            [
+              10.368946555226264,
+              44.89560128041701
+            ],
+            [
+              10.368955352915886,
+              44.89562285621031
+            ],
+            [
+              10.36900347279529,
+              44.895611493648495
+            ],
+            [
+              10.368994675105668,
+              44.8955899178552
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 32
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369036118481812,
+              44.89569824755082
+            ],
+            [
+              10.368987998602408,
+              44.89570961011263
+            ],
+            [
+              10.36899679629203,
+              44.89573118590593
+            ],
+            [
+              10.369044916171434,
+              44.895719823344116
+            ],
+            [
+              10.369036118481812,
+              44.89569824755082
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 33
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369082652001886,
+              44.895805675788154
+            ],
+            [
+              10.369034532122482,
+              44.89581703834997
+            ],
+            [
+              10.369043329812104,
+              44.895838614143265
+            ],
+            [
+              10.369091449691508,
+              44.89582725158145
+            ],
+            [
+              10.369082652001886,
+              44.895805675788154
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 34
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369126640449995,
+              44.89591355475463
+            ],
+            [
+              10.369078520570591,
+              44.89592491731644
+            ],
+            [
+              10.369087318260213,
+              44.89594649310974
+            ],
+            [
+              10.369135438139617,
+              44.895935130547926
+            ],
+            [
+              10.369126640449995,
+              44.89591355475463
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 35
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369170628898104,
+              44.89602143372111
+            ],
+            [
+              10.3691225090187,
+              44.896032796282924
+            ],
+            [
+              10.369131306708322,
+              44.89605437207622
+            ],
+            [
+              10.369179426587726,
+              44.89604300951441
+            ],
+            [
+              10.369170628898104,
+              44.89602143372111
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA7",
+        "area_code": "7",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 71,
+        "part": 36
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368402122810938,
+              44.89403363986465
+            ],
+            [
+              10.368354453958236,
+              44.89404591957329
+            ],
+            [
+              10.368361694031915,
+              44.89406313822341
+            ],
+            [
+              10.368409362884616,
+              44.894050858514774
+            ],
+            [
+              10.368402122810938,
+              44.89403363986465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOE7",
+        "area_code": "7",
+        "driveway_code": "OE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 76,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367573231729182,
+              44.89199343655531
+            ],
+            [
+              10.367612487774116,
+              44.89207885482266
+            ],
+            [
+              10.368766924847325,
+              44.89183510640291
+            ],
+            [
+              10.368727668802391,
+              44.89174968813556
+            ],
+            [
+              10.367573231729182,
+              44.89199343655531
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPA8",
+        "area_code": "8",
+        "driveway_code": "PA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367822233520087,
+              44.89647066599542
+            ],
+            [
+              10.367703239749549,
+              44.896501720100815
+            ],
+            [
+              10.368812011523072,
+              44.89886757988133
+            ],
+            [
+              10.36893100529361,
+              44.89883652577594
+            ],
+            [
+              10.367822233520087,
+              44.89647066599542
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOA8",
+        "area_code": "8",
+        "driveway_code": "OA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36794219940461,
+              44.896436473218984
+            ],
+            [
+              10.367823205634071,
+              44.896467527324376
+            ],
+            [
+              10.368931977407595,
+              44.898833387104894
+            ],
+            [
+              10.369050971178133,
+              44.8988023329995
+            ],
+            [
+              10.36794219940461,
+              44.896436473218984
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPB8",
+        "area_code": "8",
+        "driveway_code": "PB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368115756874516,
+              44.89638378218845
+            ],
+            [
+              10.367996763103978,
+              44.89641483629384
+            ],
+            [
+              10.369105534877502,
+              44.89878069607436
+            ],
+            [
+              10.36922452864804,
+              44.89874964196897
+            ],
+            [
+              10.368115756874516,
+              44.89638378218845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB8",
+        "area_code": "8",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368238599498682,
+              44.89635264770757
+            ],
+            [
+              10.368119605728143,
+              44.896383701812965
+            ],
+            [
+              10.369228377501667,
+              44.89874956159348
+            ],
+            [
+              10.369347371272205,
+              44.89871850748809
+            ],
+            [
+              10.368238599498682,
+              44.89635264770757
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPC8",
+        "area_code": "8",
+        "driveway_code": "PC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368420045944987,
+              44.89631832022138
+            ],
+            [
+              10.368301052174449,
+              44.896349374326775
+            ],
+            [
+              10.369409823947972,
+              44.89871523410729
+            ],
+            [
+              10.36952881771851,
+              44.8986841800019
+            ],
+            [
+              10.368420045944987,
+              44.89631832022138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOC8",
+        "area_code": "8",
+        "driveway_code": "OC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368540634577272,
+              44.896287185834325
+            ],
+            [
+              10.368421640806734,
+              44.89631823993972
+            ],
+            [
+              10.369530412580257,
+              44.898684099720235
+            ],
+            [
+              10.369649406350796,
+              44.89865304561484
+            ],
+            [
+              10.368540634577272,
+              44.896287185834325
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPD8",
+        "area_code": "8",
+        "driveway_code": "PD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368720954026912,
+              44.89625445509151
+            ],
+            [
+              10.368601960256374,
+              44.8962855091969
+            ],
+            [
+              10.369710732029898,
+              44.89865136897742
+            ],
+            [
+              10.369829725800436,
+              44.898620314872026
+            ],
+            [
+              10.368720954026912,
+              44.89625445509151
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOD8",
+        "area_code": "8",
+        "driveway_code": "OD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36883928866564,
+              44.89622172400459
+            ],
+            [
+              10.368720294895102,
+              44.89625277810998
+            ],
+            [
+              10.369829066668625,
+              44.8986186378905
+            ],
+            [
+              10.369948060439164,
+              44.89858758378511
+            ],
+            [
+              10.36883928866564,
+              44.89622172400459
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPE8",
+        "area_code": "8",
+        "driveway_code": "PE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369024116100661,
+              44.89618420166579
+            ],
+            [
+              10.368905122330123,
+              44.89621525577118
+            ],
+            [
+              10.370013894103646,
+              44.8985811155517
+            ],
+            [
+              10.370132887874185,
+              44.89855006144631
+            ],
+            [
+              10.369024116100661,
+              44.89618420166579
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOE8",
+        "area_code": "8",
+        "driveway_code": "OE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369144704732093,
+              44.89615226775129
+            ],
+            [
+              10.369025710961555,
+              44.89618332185668
+            ],
+            [
+              10.370134482735079,
+              44.8985491816372
+            ],
+            [
+              10.370253476505617,
+              44.89851812753181
+            ],
+            [
+              10.369144704732093,
+              44.89615226775129
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPF8",
+        "area_code": "8",
+        "driveway_code": "PF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36938475499906,
+              44.89610117353209
+            ],
+            [
+              10.369265761228522,
+              44.89613222763748
+            ],
+            [
+              10.370374533002046,
+              44.898498087418
+            ],
+            [
+              10.370493526772584,
+              44.898467033312606
+            ],
+            [
+              10.36938475499906,
+              44.89610117353209
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOF8",
+        "area_code": "8",
+        "driveway_code": "OF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369503089637021,
+              44.89607003798088
+            ],
+            [
+              10.369384095866483,
+              44.89610109208627
+            ],
+            [
+              10.370492867640007,
+              44.89846695186679
+            ],
+            [
+              10.370611861410545,
+              44.898435897761395
+            ],
+            [
+              10.369503089637021,
+              44.89607003798088
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPG8",
+        "area_code": "8",
+        "driveway_code": "PG",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369689044068764,
+              44.896034112368994
+            ],
+            [
+              10.369570050298226,
+              44.896065166474386
+            ],
+            [
+              10.37067882207175,
+              44.898431026254904
+            ],
+            [
+              10.370797815842288,
+              44.89839997214951
+            ],
+            [
+              10.369689044068764,
+              44.896034112368994
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOG8",
+        "area_code": "8",
+        "driveway_code": "OG",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369808505703475,
+              44.89600217844202
+            ],
+            [
+              10.369689511932936,
+              44.89603323254741
+            ],
+            [
+              10.37079828370646,
+              44.89839909232793
+            ],
+            [
+              10.370917277476998,
+              44.898368038222536
+            ],
+            [
+              10.369808505703475,
+              44.89600217844202
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPH8",
+        "area_code": "8",
+        "driveway_code": "PH",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369994460135189,
+              44.89597024444177
+            ],
+            [
+              10.36987546636465,
+              44.89600129854716
+            ],
+            [
+              10.370984238138174,
+              44.89836715832768
+            ],
+            [
+              10.371103231908712,
+              44.89833610422229
+            ],
+            [
+              10.369994460135189,
+              44.89597024444177
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOH8",
+        "area_code": "8",
+        "driveway_code": "OH",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 222,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370112794773945,
+              44.895939907157384
+            ],
+            [
+              10.369993801003407,
+              44.895970961262776
+            ],
+            [
+              10.37110257277693,
+              44.898336821043294
+            ],
+            [
+              10.371221566547469,
+              44.8983057669379
+            ],
+            [
+              10.370112794773945,
+              44.895939907157384
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPI8",
+        "area_code": "8",
+        "driveway_code": "PI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 38,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370249821223467,
+              44.89591246247613
+            ],
+            [
+              10.37018921959671,
+              44.89592567142473
+            ],
+            [
+              10.370520411982538,
+              44.89665273958795
+            ],
+            [
+              10.370641038685221,
+              44.89662502617925
+            ],
+            [
+              10.370249821223467,
+              44.89591246247613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOI8",
+        "area_code": "8",
+        "driveway_code": "OI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 189,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370643408894097,
+              44.896625480806904
+            ],
+            [
+              10.37052271932378,
+              44.89665305928962
+            ],
+            [
+              10.370841206754642,
+              44.897358994906554
+            ],
+            [
+              10.370961896324959,
+              44.89733141642384
+            ],
+            [
+              10.370643408894097,
+              44.896625480806904
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOI8",
+        "area_code": "8",
+        "driveway_code": "OI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 189,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370999011511083,
+              44.897325120538746
+            ],
+            [
+              10.370841737811379,
+              44.8973601345139
+            ],
+            [
+              10.371295009085596,
+              44.8983609174287
+            ],
+            [
+              10.3714522827853,
+              44.89832590345354
+            ],
+            [
+              10.370999011511083,
+              44.897325120538746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITII8",
+        "area_code": "8",
+        "driveway_code": "II",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 150,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.37032421068912,
+              44.89591412913404
+            ],
+            [
+              10.370282103735867,
+              44.89592407163207
+            ],
+            [
+              10.37129831996479,
+              44.897812744366576
+            ],
+            [
+              10.371340426918042,
+              44.897802801868544
+            ],
+            [
+              10.37032421068912,
+              44.89591412913404
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITHI8",
+        "area_code": "8",
+        "driveway_code": "HI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 50,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.370196463335532,
+              44.89603868541187
+            ],
+            [
+              10.370166290999114,
+              44.8960455800151
+            ],
+            [
+              10.371174930712149,
+              44.89817467882982
+            ],
+            [
+              10.371205103048567,
+              44.89816778422659
+            ],
+            [
+              10.370196463335532,
+              44.89603868541187
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITEF8",
+        "area_code": "8",
+        "driveway_code": "EF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 100,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369207864191623,
+              44.896211996879146
+            ],
+            [
+              10.369177691855205,
+              44.89621889148238
+            ],
+            [
+              10.37018633156824,
+              44.8983479902971
+            ],
+            [
+              10.370216503904658,
+              44.898341095693866
+            ],
+            [
+              10.369207864191623,
+              44.896211996879146
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITEF8",
+        "area_code": "8",
+        "driveway_code": "EF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 100,
+        "part": 1
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.3692629829587,
+              44.89619498736834
+            ],
+            [
+              10.369233764472211,
+              44.89620370228903
+            ],
+            [
+              10.370262526031631,
+              44.89832796059327
+            ],
+            [
+              10.37029174451812,
+              44.89831924567258
+            ],
+            [
+              10.3692629829587,
+              44.89619498736834
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITCD8",
+        "area_code": "8",
+        "driveway_code": "CD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 50,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368590523144178,
+              44.896315780120716
+            ],
+            [
+              10.36856035080776,
+              44.89632267472395
+            ],
+            [
+              10.369568990520795,
+              44.89845177353867
+            ],
+            [
+              10.369599162857213,
+              44.898444878935436
+            ],
+            [
+              10.368590523144178,
+              44.896315780120716
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITBC8",
+        "area_code": "8",
+        "driveway_code": "BC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 50,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368288412636247,
+              44.8963849411401
+            ],
+            [
+              10.368258240299829,
+              44.89639183574333
+            ],
+            [
+              10.369266880012864,
+              44.89852093455805
+            ],
+            [
+              10.369297052349282,
+              44.89851403995482
+            ],
+            [
+              10.368288412636247,
+              44.8963849411401
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA8",
+        "area_code": "8",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 113,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.367637596921355,
+              44.89652040772165
+            ],
+            [
+              10.367577604342548,
+              44.89653494634121
+            ],
+            [
+              10.36870041493,
+              44.89894482226176
+            ],
+            [
+              10.368760407508807,
+              44.8989302836422
+            ],
+            [
+              10.367637596921355,
+              44.89652040772165
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITGH8",
+        "area_code": "8",
+        "driveway_code": "GH",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 1,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.371044056685747,
+              44.89835270517298
+            ],
+            [
+              10.37098405038256,
+              44.89836721941764
+            ],
+            [
+              10.370993697797653,
+              44.898388612294056
+            ],
+            [
+              10.37105370410084,
+              44.898374098049395
+            ],
+            [
+              10.371044056685747,
+              44.89835270517298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOF9",
+        "area_code": "9",
+        "driveway_code": "OF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369710309051015,
+              44.89873539710959
+            ],
+            [
+              10.36958898628764,
+              44.898761552104695
+            ],
+            [
+              10.370143746763864,
+              44.89995622426644
+            ],
+            [
+              10.370265069527239,
+              44.899930069271335
+            ],
+            [
+              10.369710309051015,
+              44.89873539710959
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPF9",
+        "area_code": "9",
+        "driveway_code": "PF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369587960788436,
+              44.898763203844226
+            ],
+            [
+              10.369466638025061,
+              44.89878935883933
+            ],
+            [
+              10.370021398501285,
+              44.899984031001075
+            ],
+            [
+              10.37014272126466,
+              44.89995787600597
+            ],
+            [
+              10.369587960788436,
+              44.898763203844226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOE9",
+        "area_code": "9",
+        "driveway_code": "OE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369407807016898,
+              44.898810874269685
+            ],
+            [
+              10.369286484253523,
+              44.89883702926479
+            ],
+            [
+              10.369841244729747,
+              44.900031701426535
+            ],
+            [
+              10.369962567493122,
+              44.90000554643143
+            ],
+            [
+              10.369407807016898,
+              44.898810874269685
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPE9",
+        "area_code": "9",
+        "driveway_code": "PE",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369286361745651,
+              44.89883996018665
+            ],
+            [
+              10.369165038982276,
+              44.898866115181754
+            ],
+            [
+              10.3697197994585,
+              44.9000607873435
+            ],
+            [
+              10.369841122221874,
+              44.900034632348394
+            ],
+            [
+              10.369286361745651,
+              44.89883996018665
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOD9",
+        "area_code": "9",
+        "driveway_code": "OD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369113983829948,
+              44.89889257131253
+            ],
+            [
+              10.368992661066573,
+              44.898918726307635
+            ],
+            [
+              10.369547421542796,
+              44.90011339846938
+            ],
+            [
+              10.369668744306171,
+              44.900087243474275
+            ],
+            [
+              10.369113983829948,
+              44.89889257131253
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPD9",
+        "area_code": "9",
+        "driveway_code": "PD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368991635569046,
+              44.898921196766224
+            ],
+            [
+              10.36887031280567,
+              44.89894735176133
+            ],
+            [
+              10.369425073281894,
+              44.900142023923074
+            ],
+            [
+              10.36954639604527,
+              44.90011586892797
+            ],
+            [
+              10.368991635569046,
+              44.898921196766224
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOC9",
+        "area_code": "9",
+        "driveway_code": "OC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368819070763834,
+              44.898960296963736
+            ],
+            [
+              10.368697748000459,
+              44.89898645195884
+            ],
+            [
+              10.369252508476682,
+              44.900181124120586
+            ],
+            [
+              10.369373831240058,
+              44.90015496912548
+            ],
+            [
+              10.368819070763834,
+              44.898960296963736
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPC9",
+        "area_code": "9",
+        "driveway_code": "PC",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368696722503074,
+              44.89898892254138
+            ],
+            [
+              10.368575399739699,
+              44.89901507753648
+            ],
+            [
+              10.369130160215922,
+              44.90020974969823
+            ],
+            [
+              10.369251482979298,
+              44.90018359470312
+            ],
+            [
+              10.368696722503074,
+              44.89898892254138
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOB9",
+        "area_code": "9",
+        "driveway_code": "OB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368502611536883,
+              44.899032792429836
+            ],
+            [
+              10.368381288773508,
+              44.89905894742494
+            ],
+            [
+              10.368936049249731,
+              44.900253619586685
+            ],
+            [
+              10.369057372013106,
+              44.90022746459158
+            ],
+            [
+              10.368502611536883,
+              44.899032792429836
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPB9",
+        "area_code": "9",
+        "driveway_code": "PB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 112,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368382956546697,
+              44.89905855627396
+            ],
+            [
+              10.368261633783321,
+              44.89908471126906
+            ],
+            [
+              10.368816394259545,
+              44.90027938343081
+            ],
+            [
+              10.36893771702292,
+              44.9002532284357
+            ],
+            [
+              10.368382956546697,
+              44.89905855627396
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITPA9",
+        "area_code": "9",
+        "driveway_code": "PA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 41,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.36831472107636,
+              44.89961326148921
+            ],
+            [
+              10.368254962133534,
+              44.89962828163506
+            ],
+            [
+              10.368526583577188,
+              44.90034964227481
+            ],
+            [
+              10.368644333174814,
+              44.900316279768
+            ],
+            [
+              10.36831472107636,
+              44.89961326148921
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITOA9",
+        "area_code": "9",
+        "driveway_code": "OA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 108,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368233761430417,
+              44.89913790607781
+            ],
+            [
+              10.368112096452982,
+              44.89916325304949
+            ],
+            [
+              10.36864296202347,
+              44.90031620626595
+            ],
+            [
+              10.368764627000905,
+              44.90029085929427
+            ],
+            [
+              10.368233761430417,
+              44.89913790607781
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAA9",
+        "area_code": "9",
+        "driveway_code": "AA",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 150,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368026709856082,
+              44.899127213708226
+            ],
+            [
+              10.368002741564151,
+              44.899133090559666
+            ],
+            [
+              10.368486952248265,
+              44.90043618041613
+            ],
+            [
+              10.368510920540196,
+              44.90043030356469
+            ],
+            [
+              10.368026709856082,
+              44.899127213708226
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITAB9",
+        "area_code": "9",
+        "driveway_code": "AB",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 25,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368295132192827,
+              44.89917183230588
+            ],
+            [
+              10.368264647553236,
+              44.89917800184262
+            ],
+            [
+              10.36875139784679,
+              44.90024665213047
+            ],
+            [
+              10.368781882486381,
+              44.90024048259373
+            ],
+            [
+              10.368295132192827,
+              44.89917183230588
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITCD9",
+        "area_code": "9",
+        "driveway_code": "CD",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 25,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368904107681345,
+              44.89903391281612
+            ],
+            [
+              10.368873623041754,
+              44.89904008235286
+            ],
+            [
+              10.369360373335308,
+              44.90010873264071
+            ],
+            [
+              10.3693908579749,
+              44.90010256310397
+            ],
+            [
+              10.368904107681345,
+              44.89903391281612
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITFF9",
+        "area_code": "9",
+        "driveway_code": "FF",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 150,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369777653565393,
+              44.89871641420288
+            ],
+            [
+              10.36975359167962,
+              44.89872209553513
+            ],
+            [
+              10.370362311509117,
+              44.899998717030826
+            ],
+            [
+              10.37038637339489,
+              44.89999303569858
+            ],
+            [
+              10.369777653565393,
+              44.89871641420288
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITGH9",
+        "area_code": "9",
+        "driveway_code": "GH",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 25,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.368636590039614,
+              44.90035569600414
+            ],
+            [
+              10.368656642091333,
+              44.90039830685553
+            ],
+            [
+              10.369409355058128,
+              44.90022238491569
+            ],
+            [
+              10.36938930300641,
+              44.900179774064306
+            ],
+            [
+              10.368636590039614,
+              44.90035569600414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "kind": "driveway",
+        "driveway_key": "ITHI9",
+        "area_code": "9",
+        "driveway_code": "HI",
+        "compound_name": "CEVA PARMA SAN POLO",
+        "country_code": "IT",
+        "capacity": 25,
+        "part": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              10.369436455654153,
+              44.90016886162263
+            ],
+            [
+              10.369456507705872,
+              44.90021147247402
+            ],
+            [
+              10.370209220672667,
+              44.900035550534184
+            ],
+            [
+              10.370189168620948,
+              44.8999929396828
+            ],
+            [
+              10.369436455654153,
+              44.90016886162263
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
